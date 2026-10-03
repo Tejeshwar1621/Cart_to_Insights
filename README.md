@@ -739,25 +739,7 @@ Each stage uses the output of the previous stage so that the final dashboard and
 
 ---
 
-# 16. Project Deliverables
-
-The completed project includes:
-
-- Python notebooks for data cleaning
-- Python notebook for feature engineering
-- SQL analysis notebook
-- EDA notebook
-- Statistical analysis notebook
-- MySQL database integration
-- `.env` database configuration
-- Streamlit dashboard
-- Business insights
-- Business recommendations
-- Project documentation
-
----
-
-# 17. Technologies Used
+# 16. Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -777,7 +759,7 @@ The completed project includes:
 
 ---
 
-# 18. Conclusion
+# 17. Conclusion
 
 Cart2Insights demonstrates a complete end-to-end e-commerce analytics workflow.
 
